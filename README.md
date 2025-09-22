@@ -15,3 +15,7 @@ __{`based on windows`}__
 - [__`Owners`__](https://github.com/xqb-dpx/Termicall/blob/master/CODEOWNERS)
 
 - [__`ChangLog`__](https://github.com/xqb-dpx/Termicall/blob/master/CHANGELOG.md)
+
+- [__`Roadmap`__](https://github.com/xqb-dpx/Termicall/blob/master/ROADMAP.md)
+
+- [__`Support`__](https://github.com/xqb-dpx/Termicall/blob/master/SUPPORT.md)
