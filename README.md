@@ -6,6 +6,8 @@ __{`based on windows`}__
 
 > [__`Main Resource`__](https://www.powershellgallery.com/packages/Termicall/)
 
+---
+
 > [__`Licence`__](https://github.com/xqb-dpx/Termicall/blob/master/LICENSE)
 
 ```txt
