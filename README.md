@@ -7,5 +7,5 @@ __{`based on windows`}__
 ### For Uninstall Module Type & Enter
 
 > ```ps1
-> Remove-Module Termicall
+> Remove-Module -Name Termicall
 > ```
