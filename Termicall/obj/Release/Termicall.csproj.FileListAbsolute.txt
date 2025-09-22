@@ -1,0 +1,11 @@
+C:\Users\Windows\Desktop\Termicall\obj\Release\Termicall.csproj.AssemblyReference.cache
+C:\Users\Windows\Desktop\Termicall\obj\Release\Termicall.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Desktop\Termicall\bin\Release\Termicall.exe.config
+C:\Users\Windows\Desktop\Termicall\bin\Release\Termicall.exe
+C:\Users\Windows\Desktop\Termicall\bin\Release\Termicall.pdb
+C:\Users\Windows\Desktop\Termicall\bin\Release\System.Management.Automation.dll
+C:\Users\Windows\Desktop\Termicall\bin\Release\Microsoft.Management.Infrastructure.dll
+C:\Users\Windows\Desktop\Termicall\bin\Release\System.Management.Automation.xml
+C:\Users\Windows\Desktop\Termicall\obj\Release\Termicall.csproj.Up2Date
+C:\Users\Windows\Desktop\Termicall\obj\Release\Termicall.exe
+C:\Users\Windows\Desktop\Termicall\obj\Release\Termicall.pdb
