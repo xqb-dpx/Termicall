@@ -17,9 +17,9 @@ __{`based on windows`}__
 
 ---
 
-> [__`Licence`__] [2]
+> [__`MIT`__] [License]
 
-[2]: https://github.com/xqb-dpx/Termicall/blob/master/LICENSE
+[License]: https://github.com/xqb-dpx/Termicall/blob/master/LICENSE
 
 ```txt
 MIT License
