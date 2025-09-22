@@ -11,12 +11,14 @@ __{`based on windows`}__
 > ```
 > 
 
-> [__`Main Resource`__] [1]
-[1]: https://www.powershellgallery.com/packages/Termicall/
+> [__`PowerShell Gallery`__] [Reference]
+
+[Reference]: https://www.powershellgallery.com/packages/Termicall/
 
 ---
 
 > [__`Licence`__] [2]
+
 [2]: https://github.com/xqb-dpx/Termicall/blob/master/LICENSE
 
 ```txt
