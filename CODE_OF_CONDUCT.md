@@ -1,4 +1,4 @@
 # Code of Conduct
 
-All participants are expected to be respectful and professional.  
-Harassment or discrimination of any kind will not be tolerated.
+Be respectful and inclusive. Harassment or discrimination will not be tolerated.  
+By participating, you agree to maintain a professional and welcoming environment.
