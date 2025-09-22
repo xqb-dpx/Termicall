@@ -14,7 +14,4 @@ __{`based on windows`}__
 
 - [__`Owners`__](https://github.com/xqb-dpx/Termicall/blob/master/CODEOWNERS)
 
-```md
-# Owners of this repository
-* @xqb-dpx
-```
+- [__`ChangLog`__](https://github.com/xqb-dpx/Termicall/blob/master/CHANGELOG.md)
