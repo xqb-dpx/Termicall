@@ -1,4 +1,4 @@
-## PNUM (PowerShell Network Utility Module ***based on windows***)
+## Termicall: PowerShell Network Utility Set Module [based on windows]
 
 > [__`More & Download`__](https://github.com/xqb-dpx/Termicall/releases/)
 
