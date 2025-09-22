@@ -13,3 +13,12 @@ __{`based on windows`}__
 - [__`PowerShell Gallery`__] [Reference]
 
 [Reference]: https://www.powershellgallery.com/packages/Termicall/
+
+- [__`Owners`__] [R1]
+
+[R1]: https://github.com/xqb-dpx/Termicall/blob/master/CODEOWNERS
+
+```md
+# Owners of this repository
+* @xqb-dpx
+```
