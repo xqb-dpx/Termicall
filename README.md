@@ -1,5 +1,3 @@
 # PowerShell Network Utility Module (based on windows)
 
-> [__Main Resource__]
-
-[__Main Resource__]: https://www.powershellgallery.com/packages/Termicall/
+> [`__Main Resource__`](https://www.powershellgallery.com/packages/Termicall/)
