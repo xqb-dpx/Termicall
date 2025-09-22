@@ -2,13 +2,22 @@
 
 __{`based on windows`}__
 
-> [__`More & Download`__](https://github.com/xqb-dpx/Termicall/releases/)
+> [📥 __`More, Download & Install`__](https://github.com/xqb-dpx/Termicall/releases/)
 
-> [__`Main Resource`__](https://www.powershellgallery.com/packages/Termicall/)
+### For Uninstall Module Type & Enter
+
+> ```ps1
+> Remove-Module Termicall
+> ```
+> 
+
+> [__`Main Resource`__] [PowerShell-Gallery]
+[PowerShell-Gallery]: https://www.powershellgallery.com/packages/Termicall/
 
 ---
 
-> [__`Licence`__](https://github.com/xqb-dpx/Termicall/blob/master/LICENSE)
+> [__`Licence`__] [ref]
+[ref]: https://github.com/xqb-dpx/Termicall/blob/master/LICENSE
 
 ```txt
 MIT License
@@ -33,9 +42,3 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-### For Uninstall Module Type & Enter
-
-> ```ps1
-> Remove-Module Termicall
-> ```
