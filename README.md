@@ -14,7 +14,7 @@ __{`based on windows`}__
 
 [Reference]: https://www.powershellgallery.com/packages/Termicall/
 
-- [__`Owners`__] [R1]
+- [__`Owners`__] [^R1]
 
 [R1]: https://github.com/xqb-dpx/Termicall/blob/master/CODEOWNERS
 
