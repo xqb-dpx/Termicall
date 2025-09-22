@@ -2,7 +2,7 @@
 
 __{`based on windows`}__
 
-> [__`More, Download & Install`__](https://github.com/xqb-dpx/Termicall/releases/)
+> [__`Download & Install`__](https://github.com/xqb-dpx/Termicall/releases/)
 
 ### For Uninstall Module Type & Enter
 
