@@ -10,13 +10,9 @@ __{`based on windows`}__
 > Remove-Module Termicall
 > ```
 
-- [__`PowerShell Gallery`__] [Reference]
+- [__`PowerShell Gallery`__](https://www.powershellgallery.com/packages/Termicall/)
 
-[Reference]: https://www.powershellgallery.com/packages/Termicall/
-
-- [__`Owners`__] [^R1]
-
-[R1]: https://github.com/xqb-dpx/Termicall/blob/master/CODEOWNERS
+- [__`Owners`__](https://github.com/xqb-dpx/Termicall/blob/master/CODEOWNERS)
 
 ```md
 # Owners of this repository
