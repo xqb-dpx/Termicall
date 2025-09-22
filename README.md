@@ -2,22 +2,21 @@
 
 __{`based on windows`}__
 
-> [__`More, Download & Install`__](https://github.com/xqb-dpx/Termicall/releases/)
+- [__`More, Download & Install`__](https://github.com/xqb-dpx/Termicall/releases/)
 
 ### For Uninstall Module Type & Enter
 
 > ```ps1
 > Remove-Module Termicall
 > ```
-> 
 
-> [__`PowerShell Gallery`__] [Reference]
+- [__`PowerShell Gallery`__] [Reference]
 
 [Reference]: https://www.powershellgallery.com/packages/Termicall/
 
 ---
 
-> [__`MIT`__] [License]
+- [__`MIT`__] [License]
 
 [License]: https://github.com/xqb-dpx/Termicall/blob/master/LICENSE
 
